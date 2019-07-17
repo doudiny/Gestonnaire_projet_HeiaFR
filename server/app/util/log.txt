@@ -1,0 +1,192 @@
+2019.06.30, 13:38:13.0313 UTC -> [error] Error: Invalid credentials during a bind operation. Code: 0x31
+2019.06.30, 13:38:13.0332 UTC -> [warning] unable to authenticate user : uid=yann.doudindsa,ou=sync,ou=People,ou=nis,o=tic
+2019.07.02, 08:25:15.0322 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.02, 08:42:35.0194 UTC -> [error] SyntaxError: Unexpected token , in JSON at position 3
+2019.07.02, 12:22:49.0723 UTC -> [error] Error: ModuleNotFoundError: No module named 'ortools'
+2019.07.03, 08:21:11.0428 UTC -> [error] Error: getaddrinfo ENOTFOUND ticolp01.hefr.ch ticolp01.hefr.ch:636
+2019.07.03, 08:21:11.0442 UTC -> [warning] unable to authenticate user : uid=yann.doudin,ou=sync,ou=People,ou=nis,o=tic
+2019.07.03, 08:24:04.0388 UTC -> [error] Something went wrong with the Database Update! SequelizeHostNotFoundError: getaddrinfo ENOTFOUND takachoisir.tic.heia-fr.ch takachoisir.tic.heia-fr.ch:3306
+2019.07.03, 08:24:06.0788 UTC -> [error] Error: getaddrinfo ENOTFOUND ticolp01.hefr.ch ticolp01.hefr.ch:636
+2019.07.03, 08:24:06.0794 UTC -> [warning] unable to authenticate user : uid=yann.doudin,ou=sync,ou=People,ou=nis,o=tic
+2019.07.03, 08:24:22.0163 UTC -> [error] Something went wrong with the Database Update! SequelizeHostNotFoundError: getaddrinfo ENOTFOUND takachoisir.tic.heia-fr.ch takachoisir.tic.heia-fr.ch:3306
+2019.07.03, 08:24:42.0077 UTC -> [error] Error: getaddrinfo ENOTFOUND ticolp01.hefr.ch ticolp01.hefr.ch:636
+2019.07.03, 08:24:42.0080 UTC -> [warning] unable to authenticate user : uid=yann.doudin,ou=sync,ou=People,ou=nis,o=tic
+2019.07.03, 08:26:03.0364 UTC -> [error] Something went wrong with the Database Update! SequelizeHostNotFoundError: getaddrinfo ENOTFOUND takachoisir.tic.heia-fr.ch takachoisir.tic.heia-fr.ch:3306
+2019.07.03, 08:27:46.0024 UTC -> [error] Error: getaddrinfo ENOTFOUND ticolp01.hefr.ch ticolp01.hefr.ch:636
+2019.07.03, 08:27:46.0027 UTC -> [warning] unable to authenticate user : uid=yann.doudin,ou=sync,ou=People,ou=nis,o=tic
+2019.07.03, 08:27:49.0220 UTC -> [error] Error: getaddrinfo ENOTFOUND ticolp01.hefr.ch ticolp01.hefr.ch:636
+2019.07.03, 08:27:49.0222 UTC -> [warning] unable to authenticate user : uid=yann.doudin,ou=sync,ou=People,ou=nis,o=tic
+2019.07.03, 10:12:43.0346 UTC -> [info] Nice! Database looks fine on startup
+2019.07.03, 11:41:12.0120 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.03, 11:41:35.0130 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.03, 11:41:49.0357 UTC -> [info] Nice! Database looks fine on startup
+2019.07.03, 11:42:02.0586 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.03, 11:42:56.0410 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.03, 14:09:08.0420 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.04, 07:42:51.0433 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 06:58:33.0881 UTC -> [error] Something went wrong with the Database Update! SequelizeHostNotFoundError: getaddrinfo ENOTFOUND takachoisir.tic.heia-fr.ch takachoisir.tic.heia-fr.ch:3306
+2019.07.05, 07:00:17.0791 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:08:20.0111 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:08:50.0293 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:13:53.0513 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:14:23.0003 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:15:27.0916 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:16:01.0058 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:17:03.0269 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:17:22.0010 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:18:12.0562 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:18:33.0886 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:32:51.0079 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:33:18.0544 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:34:51.0934 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:36:14.0406 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:36:23.0187 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:36:32.0372 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 07:36:37.0001 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:41:17.0427 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:44:48.0623 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:45:38.0171 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:45:57.0828 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.05, 08:47:14.0455 UTC -> [error] SequelizeValidationError: notNull Violation: Choices.UserID cannot be null,
+notNull Violation: Choices.Weight cannot be null
+2019.07.05, 08:48:23.0783 UTC -> [error] SequelizeValidationError: notNull Violation: Choices.Weight cannot be null
+2019.07.05, 08:48:46.0335 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:48:50.0208 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:49:09.0937 UTC -> [error] SequelizeDatabaseError: Data truncated for column 'ProjectID' at row 1
+2019.07.05, 08:50:14.0308 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:50:25.0525 UTC -> [error] SequelizeDatabaseError: Data truncated for column 'ProjectID' at row 1
+2019.07.05, 08:53:55.0827 UTC -> [error] SequelizeValidationError: notNull Violation: Choices.ProjectID cannot be null,
+notNull Violation: Choices.UserID cannot be null
+2019.07.05, 08:54:39.0720 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:55:02.0484 UTC -> [error] TypeError: this.build(...).save is not a function
+2019.07.05, 08:55:51.0863 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:56:01.0574 UTC -> [error] TypeError: this.build(...).save is not a function
+2019.07.05, 08:56:29.0957 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 08:56:46.0066 UTC -> [error] TypeError: this.build(...).save is not a function
+2019.07.05, 08:58:18.0427 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:00:48.0802 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:01:29.0768 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:01:39.0132 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:02:52.0069 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:03:01.0069 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:04:28.0509 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:04:43.0402 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:04:54.0810 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:05:38.0336 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:05:45.0287 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:06:43.0222 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:06:54.0003 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:07:05.0311 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:07:46.0203 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:08:02.0384 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:08:14.0861 UTC -> [error] SequelizeUniqueConstraintError: Validation error
+2019.07.05, 09:08:42.0218 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:17:22.0661 UTC -> [info] Nice! Database looks fine on startup
+2019.07.05, 09:19:30.0213 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 08:26:51.0562 UTC -> [error] Something went wrong with the Database Update! SequelizeHostNotFoundError: getaddrinfo ENOTFOUND takachoisir.tic.heia-fr.ch takachoisir.tic.heia-fr.ch:3306
+2019.07.06, 08:38:12.0207 UTC -> [error] Something went wrong with the Database Update! SequelizeHostNotFoundError: getaddrinfo ENOTFOUND takachoisir.tic.heia-fr.ch takachoisir.tic.heia-fr.ch:3306
+2019.07.06, 08:41:26.0158 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 08:44:27.0389 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 08:45:57.0266 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 08:47:01.0037 UTC -> [error] SequelizeForeignKeyConstraintError: Cannot delete or update a parent row: a foreign key constraint fails (`takachoisir`.`User`, CONSTRAINT `Assigned` FOREIGN KEY (`ProjectID_Assigned`) REFERENCES `Project` (`ID`))
+2019.07.06, 08:55:25.0967 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 08:55:34.0772 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 08:56:37.0837 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 08:58:40.0452 UTC -> [error] SequelizeForeignKeyConstraintError: Cannot delete or update a parent row: a foreign key constraint fails (`takachoisir`.`Affiliated`, CONSTRAINT `FKAffiliated169936` FOREIGN KEY (`ProjectID`) REFERENCES `Project` (`ID`))
+2019.07.06, 09:06:04.0826 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 09:06:20.0005 UTC -> [error] SequelizeForeignKeyConstraintError: Cannot delete or update a parent row: a foreign key constraint fails (`takachoisir`.`InCharge`, CONSTRAINT `FKInCharge976995` FOREIGN KEY (`ProjectID`) REFERENCES `Project` (`ID`))
+2019.07.06, 09:06:47.0958 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 09:08:39.0055 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 09:12:08.0704 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 09:12:14.0502 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 09:13:49.0926 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 10:05:05.0177 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 10:07:58.0836 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 10:12:14.0842 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 10:26:07.0957 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 10:38:19.0114 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 11:07:46.0685 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.06, 12:09:47.0609 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 12:10:51.0822 UTC -> [info] Nice! Database looks fine on startup
+2019.07.06, 12:32:36.0091 UTC -> [error] Error: WHERE parameter "ProjectID" has invalid "undefined" value
+2019.07.06, 12:34:17.0345 UTC -> [error] Error: WHERE parameter "ProjectID" has invalid "undefined" value
+2019.07.10, 06:00:34.0196 UTC -> [info] Nice! Database looks fine on startup
+2019.07.10, 06:20:16.0011 UTC -> [info] user 1 is is changing the state of the projects 3 to SAISIE
+2019.07.10, 06:20:33.0319 UTC -> [info] user 1 is is changing the state of the projects 3 to VALIDATION
+2019.07.10, 06:20:49.0552 UTC -> [info]  user 1 is listing his choices
+2019.07.10, 06:21:12.0526 UTC -> [info]  user 1 is listing his choices
+2019.07.10, 06:21:54.0518 UTC -> [info] student 1 is deleting his chocies : 81
+2019.07.10, 06:21:54.0636 UTC -> [info]  user 1 is listing his choices
+2019.07.10, 06:22:00.0103 UTC -> [info] student 1 is changing is choices : [object Object],[object Object],[object Object]
+2019.07.10, 06:22:00.0476 UTC -> [info]  user 1 is listing his choices
+2019.07.10, 06:23:29.0954 UTC -> [info] user 1 is is changing the state of the projects 2 to VALIDATION
+2019.07.10, 06:31:42.0827 UTC -> [info] user 1 is is changing the state of the projects 2,3 to VALIDE
+2019.07.10, 06:31:51.0865 UTC -> [info] user 1 is is changing the state of the projects 2,3 to CONCOURS
+2019.07.10, 09:02:29.0708 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.10, 09:02:43.0707 UTC -> [info] user 1 is is changing the state of the projects 1 to VALIDATION
+2019.07.10, 09:05:40.0964 UTC -> [info] student 1 is adding [object Object] to his choices
+2019.07.10, 15:33:29.0924 UTC -> [info]  user 1 is listing his choices
+2019.07.11, 06:41:47.0182 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:44:55.0696 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:44:55.0697 UTC -> [error] err
+2019.07.11, 06:45:37.0497 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:45:37.0498 UTC -> [error] err
+2019.07.11, 06:47:23.0226 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:47:43.0165 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:47:43.0166 UTC -> [error] err
+2019.07.11, 06:48:00.0453 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:48:51.0336 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:48:51.0337 UTC -> [error] err
+2019.07.11, 06:49:32.0681 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:50:22.0884 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:50:34.0701 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:50:34.0701 UTC -> [error] err
+2019.07.11, 06:51:07.0788 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:51:29.0237 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:51:39.0748 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:51:39.0748 UTC -> [error] err
+2019.07.11, 06:52:26.0412 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:52:38.0909 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:52:38.0913 UTC -> [error] err
+2019.07.11, 06:52:49.0246 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:53:03.0143 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:53:03.0146 UTC -> [error] ReferenceError: newToken is not defined
+2019.07.11, 06:53:19.0970 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:53:30.0554 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 06:54:32.0411 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 06:54:48.0244 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 07:46:44.0358 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 07:48:06.0825 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 07:48:16.0462 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 07:49:34.0563 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 07:49:40.0591 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 07:51:47.0495 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 07:51:54.0427 UTC -> [info] dean 1 is executing the attribution
+2019.07.11, 08:05:11.0321 UTC -> [error] TokenExpiredError: jwt expired
+2019.07.11, 08:21:10.0368 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 08:24:16.0518 UTC -> [error] Error: Invalid credentials during a bind operation. Code: 0x31
+2019.07.11, 08:24:16.0535 UTC -> [warning] unable to authenticate user : uid=undefined,ou=sync,ou=People,ou=nis,o=tic
+2019.07.11, 08:24:16.0610 UTC -> [error] Error: Invalid credentials during a bind operation. Code: 0x31
+2019.07.11, 08:24:16.0622 UTC -> [warning] unable to authenticate user : uid=undefined,ou=sync,ou=People,ou=nis,o=tic
+2019.07.11, 08:24:16.0705 UTC -> [error] Error: Invalid credentials during a bind operation. Code: 0x31
+2019.07.11, 08:24:16.0717 UTC -> [warning] unable to authenticate user : uid=undefined,ou=sync,ou=People,ou=nis,o=tic
+2019.07.11, 08:24:16.0795 UTC -> [error] Error: Invalid credentials during a bind operation. Code: 0x31
+2019.07.11, 08:24:16.0807 UTC -> [warning] unable to authenticate user : uid=undefined,ou=sync,ou=People,ou=nis,o=tic
+2019.07.11, 08:24:16.0881 UTC -> [error] Error: Invalid credentials during a bind operation. Code: 0x31
+2019.07.11, 08:24:16.0893 UTC -> [warning] unable to authenticate user : uid=undefined,ou=sync,ou=People,ou=nis,o=tic
+2019.07.11, 08:24:17.0004 UTC -> [error] Error: The LDAP server cannot process the request because of server-defined restrictions. Code: 0x35
+2019.07.11, 08:24:17.0016 UTC -> [warning] unable to authenticate user : uid=undefined,ou=sync,ou=People,ou=nis,o=tic
+2019.07.11, 08:24:17.0197 UTC -> [info] Nice! Database looks fine on startup
+2019.07.11, 08:24:17.0284 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0290 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0343 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0349 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0394 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0400 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0444 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0449 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0493 UTC -> [error] err
+2019.07.11, 08:24:17.0498 UTC -> [error] err
+2019.07.11, 08:24:17.0539 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 08:24:17.0544 UTC -> [error] JsonWebTokenError: jwt malformed
+2019.07.11, 19:30:14.0017 UTC -> [info] Nice! Database looks fine on startup

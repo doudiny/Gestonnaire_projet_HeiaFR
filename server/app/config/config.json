@@ -1,0 +1,38 @@
+
+ {
+    "development": {
+        "username": "takaUser",
+        "password": "T@kach0i$ir",
+        "database": "takachoisir",
+        "host": "takachoisir.tic.heia-fr.ch",
+        "dialect": "mysql",
+        "logging": false,
+        "define": {
+            "timestamps": false
+        }
+    },
+ 
+    "test": {
+        "username": "takaUser",
+        "password": "T@kach0i$ir",
+        "database": "takachoisir",
+        "host": "takachoisir.tic.heia-fr.ch",
+        "dialect": "mysql",
+        "logging": false,
+        "define": {
+            "timestamps": false
+        }
+    },
+ 
+    "production": {
+        "username": "takaUser",
+        "password": "T@kach0i$ir",
+        "database": "takachoisir",
+        "host": "takachoisir.tic.heia-fr.ch",
+        "dialect": "mysql",
+        "logging": false,
+        "define": {
+            "timestamps": false
+        }
+    } 
+}

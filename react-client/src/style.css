@@ -1,0 +1,354 @@
+body{
+    --COLOR1: #515151;
+    --COLOR2: #707070;
+    --COLOR3: rgb(223, 223, 223);
+    --COLOR4: #F1F1F1;
+    --COLOR5: #FFFFFF;
+
+    background-color: var(--COLOR4);
+}
+
+a:focus{
+    text-decoration: none;
+}
+
+.offcanvas-menu{
+    bottom: 0px;
+    z-index: 100;
+    overflow: hidden;
+}
+
+.offcanvas-body{
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    overflow-y: auto;
+}
+
+.mobile-header {
+    color: var(--COLOR5);
+    height: 5em;
+    line-height: 5em;
+    background-color: var(--COLOR1);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    user-select: none;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+.mobile-header span{
+    font-size: 2.5rem;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 1rem;
+}
+
+.mobile-header h1{
+    margin: 0;
+    font-size: 2.5rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+.mobile-header, .sidebar-close-action{
+    display: none;
+}
+
+@media screen and (max-width: 640px) {
+    .mobile-header, .sidebar-close-action{
+        display: block;
+    }
+    .offcanvas-menu{
+        width: 80vw !important;
+    }
+    .offcanvas-body.sidebar-open{
+        transform: translate(80vw, 0px) !important;
+    }
+
+}
+@media screen and (min-width: 640px) {
+    .offcanvas-menu{
+        transform: none !important;
+        left: 0 !important;
+    }
+
+    .offcanvas-body{
+        width: calc(100% - 300px);
+    }
+    
+}
+
+#app{
+    overflow-x: hidden;
+}
+
+
+
+
+
+.main{
+    max-width: 1000px;
+    margin: 2em;
+    color: var(--COLOR1);
+}
+
+.list-project-item {
+    background-color: var(--COLOR5);
+    margin-bottom: 1em;
+    overflow: hidden;
+    box-shadow: 1px 1px 3px 0px #00000075;
+}
+
+.list-project-item-main {
+    background-color: var(--COLOR3);
+    display: flex;
+    height: 3em;
+    line-height: 3em;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+.list-project-item-main a{
+    font-weight: bold;
+    padding-left: 1em;
+    padding-right: 1em;
+    width: 100%;
+    color: var(--COLOR1);
+}
+
+.list-project-item-main a:hover{
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+.side-bar {
+    background-color: var(--COLOR2);
+    /*position: fixed;*/
+    height: 100%;
+    width: 100%;
+    color: var(--COLOR5);
+    overflow: hidden;
+    user-select: none;
+}
+
+.side-bar a{
+    color: var(--COLOR5);
+}
+
+.main-menu{
+    margin-top: -100vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    transition: all .35s ease-in-out;
+    background-color: var(--COLOR1);
+}
+
+.main-menu.open{
+    margin-top: 0;
+    height: calc(100% - 8em);
+}
+
+.nav-button,.nav-action{
+    padding: 1rem;
+    padding-left: 25%;
+    font-size: medium;
+}
+
+.nav-button:hover,.nav-button:focus,.nav-button.active,
+.nav-action:hover {
+    text-decoration: none;
+    background-color: var(--COLOR1);
+    cursor: pointer;
+}
+
+.main-menu .nav-button:hover, .main-menu .nav-button.active{
+    background-color: var(--COLOR2);
+}
+
+.nav-action span{
+    margin-right: 1em;
+}
+
+.nav-action-batch.disabled {
+    opacity: .3;
+    cursor: not-allowed;
+}
+
+.page-menu, .nav-actions{
+    display: flex;
+    flex-direction: column;
+}
+
+.page-menu .nav-button{
+    padding: .5rem;
+    padding-left: 25%;
+}
+
+.nav-header{
+    height: 5em;
+    line-height: 5em;
+    background-color: var(--COLOR1);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    box-shadow: 0px 0px 5px 0px #000000;
+    z-index: 10;
+}
+.nav-header.open {
+    box-shadow: none;
+}
+
+.nav-header h1{
+    margin: 0;
+    font-size: 2.5rem;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.nav-header span {
+    font-size: 2.5rem;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 1rem;
+}
+
+.side-bar-content{
+    height: calc(100% - 8em);
+    overflow-y: auto;
+}
+
+.sidebar-title{
+    font-size: x-large;
+    color: var(--COLOR5);
+    opacity: .5;
+    padding-left: 20%;
+}
+
+.login-container{
+    z-index: 100;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+
+.login-container main>div{
+    margin: 0;
+}
+
+.page-wrapper.blur {
+    filter: blur(2rem);
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+main.project-container {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+span.project-tag {
+    border: 1px solid var(--COLOR2);
+    border-radius: 10px;
+    padding: .2rem 1rem;
+    margin: .5rem;
+}
+
+p.project-alias {
+    font-style: italic;
+}
+
+.project-tags {
+    display: flex;
+    flex-wrap: wrap;
+}
+h2.project-infos-label {
+    font-size: 1.5rem;
+    display: inline-block;
+    margin: 0 1em 0 0;
+    font-weight: bold;
+}
+.project-infos div {
+    display: flex;
+    margin-top: 1em;
+    flex-wrap: wrap;
+}
+.project-infos span {
+    margin-left: 1em;
+}
+.project-infos-links{
+    flex-direction: column;
+}
+.project-infos-links span{
+    margin-top: .5rem;
+}
+
+
+
+
+.user-menu {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    box-shadow: 0px 0px 5px 0px #000000;
+    z-index: 10;
+    overflow: hidden;
+    transform: translateY(calc( 100% - 3em));
+    transition: all .35s ease-in-out;
+}
+
+.user-menu.open{
+    transform: translateY(0);
+}
+
+.user-menu-header {
+    background-color: var(--COLOR1);
+    height: 3em;
+    line-height: 3em;
+    padding-left: 15%;
+    cursor: pointer;
+}
+
+span.user-menu-header-username {
+    padding-left: 1em;
+}
+
+.user-menu-content {
+    background-color: var(--COLOR1);
+}
+
+.user-menu-content p{
+    margin: 0;
+    padding: 1rem;
+    padding-left: 20%;
+}
+
+.user-menu-content-disconnect:hover{
+    background-color: var(--COLOR2);
+    cursor: pointer;
+}
+
+.user-menu-content-disconnect-button{
+    padding-left: 1rem;
+}

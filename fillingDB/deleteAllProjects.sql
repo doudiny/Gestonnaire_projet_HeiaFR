@@ -1,0 +1,10 @@
+Update User Set ProjectID_Assigned = null WHERE ProjectID_Assigned > 0;
+DELETE FROM ExpertPerProject;
+DELETE FROM Affiliated;
+DELETE FROM InCharge;
+DELETE FROM LinkAndRefByProject;
+DELETE FROM LinkAndRef; 
+DELETE FROM KeyWordsByProject;
+DELETE FROM KeyWords; 
+DELETE FROM Externe_Project;
+DELETE FROM Project;

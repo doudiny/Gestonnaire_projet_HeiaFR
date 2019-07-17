@@ -1,0 +1,104 @@
+{
+    "MainMenu":
+    {
+        "Finished": "Projets terminés",
+        "MyProjects": "Mes projets",
+        "Administration": "Administration",
+        "Contest": "Concours",
+        "Attribution": "Attribution",
+        "Export": "Exporter",
+        "Title": "Menu principal"
+    }, 
+    "AttributionPage":
+    {
+        "Project": "Projet",
+        "Resp": "Responsable",
+        "Student": "Etudiant",
+        "Choice": "Valeur du choix"
+    },
+    "SideBar":
+    {
+        "Display":
+        {
+            "Title": "Affichage",
+            "MyProjects-entry":"Projets en saisie",
+            "MyProjects-all":"Tout mes projets",
+            "Contest-contest":"Concours",
+            "Contest-favorites":"Mes favoris",
+            "Contest-choices":"Mes choix",
+            "Admin-validation":"Validation",
+            "Admin-valid":"Valide",
+            "Admin-assigned": "Attribué",
+            "Admin-contest": "Concours",
+            "Admin-finished":"Terminé",
+            "Attribution-projects":"Par projets",
+            "Attribution-students":"Par étudiants",
+            "Attribution-launching":"Lancer une attribution",
+            "Export-projects":"Projets",
+            "Export-experts":"Experts"
+        },
+        "Filters":
+        {
+            "Title": "Filtres",
+            "Periods": "Périodes",
+            "Channels":"Filières",
+            "Types":"Types",
+            "Languages":"Langues",
+            "State":"Êtats"
+        },
+        "Actions":
+        {
+            "Title": "Actions",
+            "Save": "Enregistrer",
+            "SaveAttribution": "Enregistrer",
+            "Delete":"Supprimer", 
+            "Cancel": "Annuler",
+            "AddProject":"Ajouter un projet",
+            "ToValidation":"Passer en validation",
+            "ToValid":"Passer en valide",
+            "ToEntry":"Passer en saisie",
+            "ToContest":"Passer au concours",
+            "ToFinished":"Passer en terminé",
+            "AddToFavorites":"Ajouter à mes favoris",
+            "RemoveFromFavorites":"Retirer de mes favoris",
+            "AddToChoices":"Ajouter à mes choix",
+            "RemoveFromChoices":"Retirer de mes choix",
+            "LaunchAttribution":"Lancer l'attribution",
+            "PDFVersion":"Version PDF",
+            "ExportExcel":"Exporter en Excel",
+            "ExportPDF":"Exporter en PDF",
+            "SaveChoices":"Enregistrer mes choix"
+        },
+        "SubPages":
+        {
+            "View":"Détails",
+            "Add":"Ajouter",
+            "Update":"Modifier",
+            "Attribution":"Lancer l'attribution"
+        },
+        "UserMenu":{
+            "Disconnect":"Se déconnecter",
+            "Connect":"Connexion",
+            "Role":"Rôle :"
+        }
+    },
+    "Project":
+    {
+        "ResponsibleInternal":"Responsables internes",
+        "ResponsibleExternal":"Responsables externes",
+        "Experts":"Experts",
+        "NbrStudents":"Nombre d'étudiants max",
+        "KeyWords":"Mots clés",
+        "Links":"Références",
+        "Students":"Étudiants attribués",
+        "Language":"Langue",
+        "Business":"Mandant",
+        "Type":{
+            "Bachelor":"Projet de Bachelor",
+            "PS6":"Projet de semestre 6",
+            "PS5":"Projet de semestre 5",
+            "PS4":"Projet de semestre 4",
+            "PS3":"Projet de semestre 3"
+        }
+    }
+}
